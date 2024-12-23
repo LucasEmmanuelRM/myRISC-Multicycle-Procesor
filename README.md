@@ -6,3 +6,5 @@ This is a multicycle version of myRISC, also called myRISC v2, which follows the
 ![Finite State Machine](https://github.com/user-attachments/assets/607a9c83-b0c5-4f1c-b0ab-ff51ffd76790)
 
 The processor can be simulated via EdaPlayground. This project was assigned as part of the Computer Organization and Architecture course assessment, led by Professor Max Santana Rolemberg Farias at the Federal University of Vale do São Francisco. The datapath and finite state machine diagram was provided by the professor.
+
+![myRISC_multicycle](https://github.com/user-attachments/assets/fe6055c8-cfea-46f1-a528-3ae9ae7fbd7f)
